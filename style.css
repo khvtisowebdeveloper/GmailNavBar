@@ -1,0 +1,125 @@
+*,
+*::before,
+*::after{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style: none;
+}
+
+body{
+    background: rgb(236, 255, 255);
+}
+
+header{
+    width: 100vw;
+    background: white;
+    height: 70px;
+    position: absolute;
+    box-shadow: 3px 3px 5px 6px #ccc;
+}
+
+.icons{
+    position: absolute;
+    
+}
+
+.menu{
+    background: transparent;
+    border: none;
+    margin-top: 20px;
+    margin-left: 45px;
+    box-shadow: 1px 1px 3px 3px #ccc;
+
+}
+
+.logo{
+    width: 70px;
+    height: 35px;
+    position: absolute;
+    margin-top: -16px;
+    margin-left: 45px;
+}
+
+.text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 105px;
+    margin-top: -10px;
+}
+
+
+
+.input{
+    position: absolute;
+    background: rgb(0, 0, 0, 0.9);
+    height: 45px;
+    width: 490px;
+    border-radius: 7px;
+    font-size: 15px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 300px;
+    margin-top: 9px ;
+
+}
+
+.search{
+    background: transparent;
+    border: none;
+    margin-top: 20px;
+    margin-left: 320px;
+    position: absolute;
+
+}
+
+/* .info{
+    background: transparent;
+    border: none;
+    margin-top: 20px; 
+    margin-left: 790px;
+    position: absolute;
+
+} */
+
+
+
+.info{
+    margin: 20px ;
+    position: absolute;
+    margin-left: 830px;
+    background: transparent;
+    border: none;
+    box-shadow: 1px 1px 3px 3px #ccc;
+
+}
+
+.support{
+    margin: 20px ;
+    position: absolute;
+    margin-left: 870px;
+    background: transparent;
+    border: none;
+    box-shadow: 1px 1px 3px 3px #ccc;
+
+}
+
+.apps{
+    margin: 20px ;
+    position: absolute;
+    margin-left: 915px;
+    background: transparent;
+    border: none;
+    box-shadow: 1px 1px 3px 3px #ccc;
+
+}
+
+.profile{
+    margin: 20px ;
+    position: absolute;
+    margin-left: 960px;
+    background: transparent;
+    border: none;
+    box-shadow: 1px 1px 3px 3px #ccc;
+
+}
+
